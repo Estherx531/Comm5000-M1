@@ -1,0 +1,45 @@
+{
+  "sourceFile": "COMM5000-Used_Car_Price_Prediction.xlsm",
+  "sourceSHA256": "98e355ae5581b41e2f779d0887a458d9f9f9b2c12636b307c95a499cf9821e01",
+  "originalRecords": 1005000,
+  "baseParts": [
+    {
+      "part": "xl/worksheets/sheet1.xml",
+      "sha256": "05313492958fe7da0f1d0f7f3ca38bafa4d28c4e037f7248bba701ca7b20f100"
+    },
+    {
+      "part": "xl/worksheets/sheet2.xml",
+      "sha256": "748641b0265ccc0a21a65da7b8010fc4119ab2b13a8fb88d8d960d4855d9c325"
+    },
+    {
+      "part": "xl/sharedStrings.xml",
+      "sha256": "27756ac9f4fcd58f7aad230a68f9c3b77c54b56187fa58ce0735bb3d79a7ccfc"
+    },
+    {
+      "part": "xl/vbaProject.bin",
+      "sha256": "88616465158adc2071a9d7c1e79df1e44148f617c55fc061c1350ada132750d0"
+    }
+  ],
+  "addedSheets": [
+    "Readme",
+    "Controls",
+    "Summary_Direct",
+    "Audit",
+    "Relationships",
+    "Grouped_Means",
+    "Random_Frame",
+    "Plot_Data",
+    "Charts",
+    "Formula_Index",
+    "Calculations",
+    "Snapshots",
+    "Summary",
+    "Clean_Rules",
+    "Candidate_Source",
+    "Chart_Data",
+    "Checks"
+  ],
+  "rawVehicleDataIncluded": false,
+  "candidateSourceSheetPart": "xl/worksheets/sheet17.xml",
+  "plotSheetPart": "xl/worksheets/sheet10.xml"
+}
