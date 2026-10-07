@@ -1,5 +1,7 @@
 # COMM5000 M1：待 Excel 核验的修订文件
 
+**历史修订稿，已由 [原始 XLSM 与 OfficeCLI 完成版](../README.md)取代。** 以下未核验状态及手工步骤记录的是此前阶段；原始文件访问、原始精度计算、RAND 抽样和图表重建现已完成。
+
 **当前不是可以直接提交的最终版。** 原始 XLSM 超过当前 32 MB 读取限制，引用的原始文件路径不在本工作区，当前 Linux 云环境没有 Microsoft Excel 或可控制的 Excel 浏览器会话。因此尚未完成原始精度的 Excel 统计、Excel RAND 抽样或 Excel 图表重建。
 
 - [下载可编辑 Word 修订稿](COMM5000_M1_Revision_Draft.docx)
