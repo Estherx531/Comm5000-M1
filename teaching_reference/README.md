@@ -1,5 +1,7 @@
 # COMM5000 M1 teaching reference
 
+**Superseded preliminary version: not compliant with the requested Excel-only workflow.** These files were based on Python analysis of a CSV export. The price/usage mode entries used tie counts rather than original-XLSM mode values, and the charts were generated outside Excel. Do not submit these files as an Excel-verified report. See the [revision draft, Excel verification template and manual Excel guide](../revision_pending_excel/README.md) for the current work and remaining source-verification requirements.
+
 This is an AI-assisted teaching example prepared from the supplied Term 3, 2026 assessment guide, marking rubric, Weeks 1–3 lectures and fixed randomised dataset. HD rubric alignment describes the preparation target, not an awarded grade.
 
 - [Download the eight-page teaching PDF](COMM5000_M1_HD_Rubric_Teaching_Exemplar.pdf)
